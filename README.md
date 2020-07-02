@@ -24,3 +24,17 @@
    |  4   |    002     |    1002    | 60.5  |
 
 请用SQL实现上面的需求并将实现的效果截图说明。
+
+screenshot of result
+
+- the result of student
+
+![image](https://github.com/xuxiaoqi-xxq/SQl-Base-2019-10-10-8-4-25-546/blob/master/img/student_result.jpeg)
+
+- the result of subject
+
+![image](https://github.com/xuxiaoqi-xxq/SQl-Base-2019-10-10-8-4-25-546/blob/master/img/subject_result.jpeg)
+
+- the result of score
+
+![image](https://github.com/xuxiaoqi-xxq/SQl-Base-2019-10-10-8-4-25-546/blob/master/img/score_result.jpeg)
